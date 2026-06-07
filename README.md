@@ -1,5 +1,7 @@
 # Coverage Snapshot
 
+[![Coverage](https://github.com/ldenis001/coverage-snapshot/actions/workflows/coverage.yml/badge.svg)](https://github.com/ldenis001/coverage-snapshot/actions/workflows/coverage.yml)
+
 A TypeScript starter wired for **GitHub-native test coverage reporting** — no Codecov or other third-party service. Coverage runs on every push and pull request via GitHub Actions, and the results are written to the workflow **job summary** and posted as a **sticky comment on pull requests**.
 
 ## Stack
